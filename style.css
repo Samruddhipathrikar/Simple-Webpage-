@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(238, 246, 243);
+
+}
+.topnav{
+    padding: 20px;
+    background-color: #c2ff50;
+}
+.topnav a{
+    color: darkblue;
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: cenetr;
+    font-size: 40px;
+}
+.topnav:hover{
+    background-color: skyblue;
+}
+.topnav a:hover{
+    color: rgb(21, 21, 21);
+}
+.head{
+    color: rgb(255, 63, 20);
+    font-size: 30px;
+}
+.head:hover{
+    color: purple;
+}
+.para{
+    color: black;
+}
+#about{
+    padding: 20px;
+}
+.detail{
+    font-size: 20px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+#button{
+    font-size: 30px;
+    color: white;
+    background-color: #007FFF;
+}
